@@ -16,7 +16,7 @@
       <h3 align="center">The Shadow of Luminara</h3>
         <br />
         <a target="_blank" href="https://myfirstgameishere.netlify.app/">
-            <img src="https://github.com/ArnauDavis/MyFirstGame/blob/main/shadow-gif.gif" width="100%" height="auto" alt="shadow"/>
+            <img src="https://github.com/ArnauDavis/MyFirstGame/blob/main/shadow-gif.gif" width="100%" alt="shadow"/>
         </a>
         <br />
         <p align="center">
@@ -34,7 +34,7 @@
       <h3 align="center">A PokéDex</h3>
         <br />
       <a target="_blank" href="https://abpokedex.netlify.app/">
-            <img src="https://github.com/ArnauDavis/abpokedex/blob/main/poke-gif.gif" width="100%" height="auto"  alt="Pokedex"/>
+            <img src="https://github.com/ArnauDavis/abpokedex/blob/main/poke-gif.gif" width="100%" alt="Pokedex"/>
         </a>
         <br />
         <p align="center">
