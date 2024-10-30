@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arnau</h1>
-<h3 align="center">A passionate frontend developer from Orlando FL</h3>
+<h3 align="center">A passionate software developer from Orlando FL</h3>
 
 
 
