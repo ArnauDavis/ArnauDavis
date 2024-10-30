@@ -12,7 +12,7 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="25%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">The Shadow of Luminara</h3>
         <br />
         <a target="_blank" href="https://myfirstgameishere.netlify.app/">
@@ -30,7 +30,7 @@
       </p>
         <p><strong>The Shadow of Luminara</strong> - Epic battles await against gremlins and dragons. Gather gold, gear up, and defeat evil.</p>
     </td>
-    <td width="25%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">A PokéDex</h3>
         <br />
       <a target="_blank" href="https://abpokedex.netlify.app/">
