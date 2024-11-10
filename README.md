@@ -13,7 +13,7 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">The Shadow of Luminara</h3>
+      <h3 align="center">Shadow of Luminara</h3>
         <br />
         <a target="_blank" href="https://myfirstgameishere.netlify.app/">
             <img src="https://github.com/ArnauDavis/MyFirstGame/blob/main/shadow-gif.gif" width="100%" alt="shadow"/>
