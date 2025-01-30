@@ -30,7 +30,43 @@
 
 <h1 align="center">Latest Projects</h1>
 <table bordercolor="#66b2b2">
-  
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">FormFusion</h3>
+        <br />
+        <a target="_blank" href="https://job-application-3lj4.onrender.com/">
+            <img src="https://github.com/ArnauDavis/job-application/blob/main/job-app-gif.gif" width="100%" alt="shadow"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ArnauDavis/job-application" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>  
+  <a href="https://job-application-3lj4.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>FormFusion</strong> - Manage submitted forms from admin page and download database as an organized excel file!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">PricePal</h3>
+        <br />
+      <a target="_blank" href="https://pricepal-wzhd.onrender.com/">
+            <img src="https://github.com/ArnauDavis/Grocery-list/blob/main/pricepal-gif.gif" width="100%" alt="Pokedex"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ArnauDavis/Grocery-list" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
+  <a href="https://pricepal-wzhd.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>PricePal</strong> - Track groceries you need to buy, make sure you have enough for tax!</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Shadow of Luminara</h3>
@@ -58,7 +94,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/ArnauDavis/abpokedex/tree/main" target="_blank">
+  <a href="https://github.com/ArnauDavis/abpokedex" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
   <a href="https://abpokedex.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
@@ -69,21 +105,21 @@
   </tr>
   <tr>
       <td width="50%" valign="top">
-      <h3 align="center">Modern Layout 1</h3>
+      <h3 align="center">Tic Tac Toe</h3>
         <br />
-      <a target="_blank" href="https://modernlayoutone.netlify.app/">
-            <img src="https://github.com/ArnauDavis/modernLayout1/blob/main/modern-design1-gif.gif" width="100%" alt="Design Layout"/>
+      <a target="_blank" href="https://tic-tac-toe-verc.vercel.app/">
+            <img src="https://github.com/ArnauDavis/tic-tac-toe/blob/main/tic-tac-toe-gif.gif" width="100%" alt="Design Layout"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/ArnauDavis/modernLayout1" target="_blank">
+  <a href="https://github.com/ArnauDavis/tic-tac-toe" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
-  <a href="https://modernlayoutone.netlify.app/" target="_blank">
+  <a href="https://tic-tac-toe-verc.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Modern Layout</strong> - An empty template made with HTML and CSS, the template is made responsive with some clever use of flex-box!</p>
+        <p><strong>Tic Tac Toe</strong> - A game found on nearly every kid's menu in the world is now available on my github!</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">JavaScript Practice</h3>
