@@ -36,7 +36,7 @@
       <h3 align="center">FormFusion</h3>
         <br />
         <a target="_blank" href="https://job-application-3lj4.onrender.com/">
-            <img src="https://github.com/ArnauDavis/job-application/blob/main/job-app-gif.gif" width="100%" alt="shadow"/>
+            <img src="https://github.com/ArnauDavis/job-application/blob/main/job-app-gif.gif" height="215vh" width="100%" alt="shadow"/>
         </a>
         <br />
         <p align="center">
