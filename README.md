@@ -33,7 +33,27 @@
 <h1 align="center">Latest Projects</h1>
 <table bordercolor="#66b2b2">
 
+
+
+
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">TasteBook</h3>
+        <br />
+        <a target="_blank" href="https://tastebook-g3xq.onrender.com/">
+            <img src="https://github.com/ArnauDavis/tasteBook/blob/main/public/imgs/tastegif.gif" width="100%" alt="shadow"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ArnauDavis/tasteBook" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>  
+  <a href="https://tastebook-g3xq.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>TasteBook</strong></strong> - Sign up and share your favorite dishes! Like posts and customize your own profile!</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">FormFusion</h3>
         <br />
@@ -51,25 +71,63 @@
       </p>
         <p><strong>FormFusion</strong> - Manage submitted forms from admin page and download database as an organized excel file!</p>
     </td>
+
+  </tr>
+  
+<tr>
     <td width="50%" valign="top">
-      <h3 align="center">PricePal</h3>
+      <h3 align="center">PantryPal</h3>
         <br />
-      <a target="_blank" href="https://pricepal-wzhd.onrender.com/">
-            <img src="https://github.com/ArnauDavis/Grocery-list/blob/main/pricepal-gif.gif" width="100%" alt="Pokedex"/>
+      <a target="_blank" href="https://pantry-pal-dusky.vercel.app/">
+            <img src="https://github.com/ArnauDavis/PantryPal/blob/main/pantryPal-gif.gif" width="100%" alt="PantryPal"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/ArnauDavis/Grocery-list" target="_blank">
+  <a href="https://github.com/ArnauDavis/PantryPal" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
-  <a href="https://pricepal-wzhd.onrender.com/" target="_blank">
+  <a href="https://pantry-pal-dusky.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>PricePal</strong> - Track groceries you need to buy, make sure you have enough for tax!</p>
+        <p><strong>PantryPal</strong> - Leverage AI to discover ways to use whatever is in your pantry for delicious dishes!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">A PokéDex</h3>
+        <br />
+      <a target="_blank" href="https://abreactpokedex.netlify.app/">
+            <img src="https://github.com/ArnauDavis/pokedexReact/blob/main/src/assets/imgs/pokedex.gif" width="100%" alt="PokéDex"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/ArnauDavis/pokedexReact" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
+  <a href="https://abreactpokedex.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>PokéDex</strong> - A responsive national pokédex designed with react!</p>
     </td>
   </tr>
-  <tr>
+    <tr>
+        <td width="50%" valign="top">
+      <h3 align="center">JavaScript Practice</h3>
+        <br />
+      <a target="_blank" href="https://github.com/ArnauDavis/JavaScriptPractice/blob/main/JavaScriptPractice.js">
+            <img src="https://github.com/ArnauDavis/JavaScriptPractice/blob/main/javascript-practice.gif" width="100%" alt="JS practice"/>
+        </a>
+       <br />
+    <p align="center">
+          
+  <a href="https://github.com/ArnauDavis/JavaScriptPractice" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
+  <a href="https://github.com/ArnauDavis/JavaScriptPractice/blob/main/JavaScriptPractice.js" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript Practice</strong> - A canvas of practice problems to learn new skills and enhance skills I'm currently working to develop.</p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Shadow of Luminara</h3>
         <br />
@@ -86,59 +144,6 @@
   </a>
       </p>
         <p><strong>The Shadow of Luminara</strong> - Epic battles await against gremlins and dragons. Gather gold, gear up, and defeat evil.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">JavaScript Practice</h3>
-        <br />
-      <a target="_blank" href="https://github.com/ArnauDavis/JavaScriptPractice/blob/main/JavaScriptPractice.js">
-            <img src="https://github.com/ArnauDavis/JavaScriptPractice/blob/main/javascript-practice.gif" width="100%" alt="Design Layout"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/ArnauDavis/JavaScriptPractice/tree/main" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
-  <a href="https://github.com/ArnauDavis/JavaScriptPractice/blob/main/JavaScriptPractice.js" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>JavaScript Practice</strong> - A canvas of practice problems to learn new skills and enhance skills I'm currently working to develop.</p>
-    </td>
-  </tr>
-  <tr>
-      <td width="50%" valign="top">
-      <h3 align="center">Tic Tac Toe</h3>
-        <br />
-      <a target="_blank" href="https://tic-tac-toe-verc.vercel.app/">
-            <img src="https://github.com/ArnauDavis/tic-tac-toe/blob/main/tic-tac-toe-gif.gif" width="100%" alt="Design Layout"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/ArnauDavis/tic-tac-toe" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
-  <a href="https://tic-tac-toe-verc.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Tic Tac Toe</strong> - A game found on nearly every kid's menu in the world is now available on my github!</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">A PokéDex</h3>
-        <br />
-      <a target="_blank" href="https://abpokedex.netlify.app/">
-            <img src="https://github.com/ArnauDavis/abpokedex/blob/main/poke-gif.gif" width="100%" alt="Pokedex"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/ArnauDavis/abpokedex" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/></a>
-  <a href="https://abpokedex.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Pokédex</strong> - This is a pokédex that makes api calls to the pokeapi! See images, type, a little description, and even hear their cry!</p>
     </td>
   </tr>
   
