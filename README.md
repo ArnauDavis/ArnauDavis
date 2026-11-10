@@ -85,7 +85,7 @@
       <h3 align="center">PantryPal</h3>
         <br />
       <a target="_blank" href="https://pantry-pal-dusky.vercel.app/">
-            <img src="https://github.com/ArnauDavis/PantryPal/blob/main/pantryPal-gif.gif" width="100%" alt="PantryPal"/>
+            <img src="https://github.com/ArnauDavis/PantryPal/blob/main/pantryPal2.gif" width="100%" alt="PantryPal"/>
         </a>
         <br />
         <p align="center">
